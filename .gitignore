@@ -1,2 +1,6 @@
 /target/
 /.idea/
+/output.wav
+/output_**.wav
+/output.mp3
+/output_**.mp3
